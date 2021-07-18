@@ -1,0 +1,17 @@
+h2 {
+color: red;
+}
+li {
+font-weight: bold;
+font-size: 30px;
+color: purple;
+}
+ul li {
+color: darkgreen;
+}
+#first-item {
+background-color: yellow
+}
+.opacity-low {
+opacity: 0.3;
+}
